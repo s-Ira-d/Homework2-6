@@ -1,0 +1,23 @@
+{
+  "name": "homework2-6",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel serve src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-Ira-d/Homework2-6.git"
+  },
+  "author": "Ira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-Ira-d/Homework2-6/issues"
+  },
+  "homepage": "https://github.com/s-Ira-d/Homework2-6#readme",
+  "keywords": [],
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}
